@@ -5,7 +5,7 @@
 FROM selenium/node-chrome-debug:3.141.59-20200409
 LABEL authors=SeleniumHQ
 
-USER seluser
+USER roor
 
 #====================================
 # Scripts to run Selenium Standalone
